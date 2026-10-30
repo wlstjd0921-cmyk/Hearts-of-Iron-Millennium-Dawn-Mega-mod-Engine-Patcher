@@ -1,4 +1,4 @@
-# Hoi4 Engine Patcher
+# Hoi4 Engine Patcher Made with ClaudeCode 
 
 Source code of the engine patcher that ships with **Megamod** ([Steam Workshop item 3820172588](https://steamcommunity.com/sharedfiles/filedetails/?id=3820172588)), a map mod for Hearts of Iron IV with Millennium Dawn.
 
