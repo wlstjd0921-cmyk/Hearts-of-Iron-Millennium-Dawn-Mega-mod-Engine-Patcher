@@ -1,0 +1,2 @@
+77f652db03dd51052a0f63f2b702775b97cc54fa076be6eccf862d9e521913ca  v2.1.0/Hoi4 Engine Patcher.exe
+dccab54bd1c9db72a14be05b67f0ac0fa0adc7a2ff612b13f1c8cef69b0d58a8  v2.1.1/Hoi4 Engine Patcher.exe
